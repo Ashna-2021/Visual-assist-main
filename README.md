@@ -1,6 +1,6 @@
 # Visual Assist — Navigating the Unseen
 
-**Try the live demo: <https://saravanakumart362-create.github.io/Visual-assist/>**
+**Try the live demo: <https://ashna-2021.github.io/Visual-assist-main/>**
 It runs in your browser with nothing to install: a simulated room, your own
 camera, and a walkthrough of the hardware.
 
