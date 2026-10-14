@@ -1,6 +1,6 @@
 # Visual Assist — Navigating the Unseen
 
-**Try the live demo: <https://saravanakumart362-create.github.io/Visual-assist/>**
+**Try the live demo: <https://Ashna-2021.github.io/Visual-assist-main/>**
 It runs in your browser with nothing to install: a simulated room, your own
 camera, and a walkthrough of the hardware.
 
@@ -119,7 +119,7 @@ kept only in its memory: they are forgotten when it is closed or reloaded.
 **Publish it with GitHub Pages:** push the project to GitHub, then in the
 repository open *Settings → Pages*, choose *Deploy from a branch*, select
 branch `main` and folder `/ (root)`, and save. After a minute the page is at
-`https://saravanakumart362-create.github.io/Visual-assist/`.
+`https://ashna-2021.github.io/Visual-assist-main/`.
 
 **Preview it on your own PC:**
 
